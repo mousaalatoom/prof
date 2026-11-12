@@ -1,0 +1,2 @@
+./start.sh: line 10: docker-compose: command not found
+./start.sh: line 23: docker-compose: command not found

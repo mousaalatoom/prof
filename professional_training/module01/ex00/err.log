@@ -1,0 +1,22 @@
+docker: 'docker stop' requires at least 1 argument
+
+Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
+
+See 'docker stop --help' for more information
+docker: 'docker rm' requires at least 1 argument
+
+Usage:  docker rm [OPTIONS] CONTAINER [CONTAINER...]
+
+See 'docker rm --help' for more information
+time="2026-10-25T10:54:43+03:00" level=warning msg="/home/mal-atoo/professional_training/module01/ex00/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2026-10-25T10:54:43+03:00" level=warning msg="/home/mal-atoo/professional_training/module01/ex00/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Image ex00-template-injection-app Building 
+ Image ex00-template-injection-app Built 
+ Network ex00_default Creating 
+ Network ex00_default Creating 
+ Network ex00_default Created 
+ Network ex00_default Created 
+ Container ex00-template-injection-app-1 Creating 
+ Container ex00-template-injection-app-1 Created 
+ Container ex00-template-injection-app-1 Starting 
+ Container ex00-template-injection-app-1 Started 
